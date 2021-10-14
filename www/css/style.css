@@ -1,4 +1,15 @@
 /**/
+body{
+  background-color:#D1EEEE;
+}
+h1 {
+  font-size:1.6em;
+  border:inset 10px #ff0000;
+}
+li::first-letter{
+  font-weight: bold;
+  color:blue;
+}
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
